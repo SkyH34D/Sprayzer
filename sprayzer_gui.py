@@ -3,7 +3,7 @@ from tkinter import filedialog, messagebox, ttk
 import subprocess
 import threading
 
-class PasswordSprayerGUI(tk.Tk):
+class SprayzerGUI(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Password Sprayer Tool")
@@ -93,5 +93,5 @@ class PasswordSprayerGUI(tk.Tk):
         self.destroy()
 
 if __name__ == "__main__":
-    app = PasswordSprayerGUI()
+    app = SprayzerGUI()
     app.mainloop()
