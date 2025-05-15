@@ -4,7 +4,8 @@
   <p>
     <a align="center" href="" target="https://github.com/aliasrobotics/CAI">
       <img
-        width="100%"
+        width="500"
+        height="200"
         src="https://github.com/SkyH34D/Sprayzer/blob/48802ce7195ad0bea44d524f9854af66a47b67d8/media/Sprayzer.png"
       >
     </a>
