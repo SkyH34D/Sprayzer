@@ -1,5 +1,5 @@
 
-# 🔐 Password Sprayer GUI
+# 🔐 Spryazer GUI - Password Sprayer w/ GUI
 
 Herramienta con interfaz gráfica en Python para realizar **password spraying** sobre servicios SSH y SMB de forma sencilla, controlada y eficaz.
 
@@ -10,6 +10,7 @@ Herramienta con interfaz gráfica en Python para realizar **password spraying** 
 - ✅ Múltiples contraseñas por lote (rotación de password spraying)
 - ✅ Resultados en tiempo real en la ventana de la aplicación
 - ✅ Spraying por lotes: prueba una contraseña contra todos los usuarios antes de pasar a la siguiente
+- ✅ Modular, adaptable facilmente a otros servicios como LDAP o FTP
 
 ## 🧰 Requisitos
 
