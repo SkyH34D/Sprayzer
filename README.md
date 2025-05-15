@@ -67,3 +67,10 @@ python3 gui_password_sprayer.py
 > - Pentests con consentimiento
 
 **El uso sin permiso es ilegal y puede tener consecuencias graves.**
+
+---
+
+## 👤 Autor
+
+**Cristian "SkyH34D" Franco**  
+Offensive Security | Pentester | Red Team | IA Enthusiast | Agents & MCP Servers | CEH v13
