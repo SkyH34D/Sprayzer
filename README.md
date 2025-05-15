@@ -2,7 +2,7 @@
 # 🔐 Sprayzer - Password Sprayer w/ GUI
 
   <p align="center">
-    <a align="center" href="" target="https://github.com/aliasrobotics/CAI">
+    <a align="center" href="" target="https://github.com/SkyH34D/Sprayzer">
       <img
         width="500"
         height="200"
