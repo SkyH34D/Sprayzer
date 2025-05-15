@@ -1,6 +1,16 @@
 
 # 🔐 Sprayzer GUI - Password Sprayer w/ GUI
 
+<div align="center">
+  <p>
+    <a align="center" href="" target="https://github.com/SkyH34D/Sprayzer">
+      <img
+        width="100%"
+        src="https://github.com/SkyH34D/Sprayzer/blob/385a9a63b058939c21df31c6220f096369413414/media/Sprayzer.png"
+      >
+    </a>
+  </p>
+
 Herramienta con interfaz gráfica en Python para realizar **password spraying** sobre servicios SSH y SMB de forma sencilla, controlada y eficaz.
 
 ## ✨ Características
